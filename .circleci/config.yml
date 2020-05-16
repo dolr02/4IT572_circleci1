@@ -32,5 +32,4 @@ workflows:
             - build
          filters:
             branches:
-           feature/firebase
                only: master
